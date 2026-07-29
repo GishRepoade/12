@@ -1,0 +1,8 @@
+{
+  "name": "Юридичний ШІ-Помічник Quant",
+  "description": "Інтелектуальний юридичний аналізатор та помічник для Адвокатів, Прокурорів та Офіцерів за законодавством штату Quant",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
